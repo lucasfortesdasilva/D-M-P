@@ -72,7 +72,7 @@ a:active,
 
 a.active {
 
-  color: #fec503;
+  color: #334045;
 
 }
 
@@ -142,7 +142,7 @@ h6 {
 
   color: #ffffff;
 
-  background-color: #fec503;
+  background-color: #334045;
 
   border-color: #f6bf01;
 
@@ -236,7 +236,7 @@ fieldset[disabled] .btn-primary.active {
 
   color: #ffffff;
 
-  background-color: #fec503;
+  background-color: #334045;
 
   border-color: #f6bf01;
 
@@ -320,7 +320,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-brand.active {
 
-  color: #fec503;
+  color: #334045;
 
 }
 
@@ -392,7 +392,7 @@ fieldset[disabled] .btn-xl.active {
 
   color: white;
 
-  background-color: #fec503;
+  background-color: #334045;
 
 }
 
